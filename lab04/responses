@@ -1,0 +1,5 @@
+1. SQL Alchemy is valuable in that it makes communication with databases easier. It does so by being database agnostic, and introducing Object Relational Mapping (ORM).
+
+2. Models in SQL Alchemy are baseclasses. It is an ORM that issues SQL "queries under-the-hood," allowing you to interact with data such as tables in an easier way.
+
+3. A view is basically a representation of a resource in REST. In our case, each has a List and Detail resource, allowing us to create endpoints.
